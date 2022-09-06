@@ -1,0 +1,28 @@
+EXPENSE_TYPE
+{
+    EXPENSE_TYPE
+    {
+    TYPE 1
+    CODE 1101
+    DECSR Uniform purchase
+    MAX_MONTHLY_COMPENSATION 165.0
+    PRICE_PER_QUANTITY 30.0
+    MONADA_METRISIS uniform
+    }
+    EXPENSE_TYPE
+    {
+    TYPE 2
+    CODE 1102
+    DECSR Subscriptions
+    MAX_MONTHLY_COMPENSATION 112.0
+    PERCENTAGE_RETURN 0.3
+    }
+    EXPENSE_TYPE
+    {
+    TYPE 2
+    CODE 1110
+    DECSR Fuel filling
+    MAX_MONTHLY_COMPENSATION 200.0
+    PERCENTAGE_RETURN 0.5
+    }
+}
